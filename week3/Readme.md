@@ -1,10 +1,9 @@
-```markdown
 # WEEK_0x03 – Web Challenge Suite 🚀
 
 > Web security labs for **CSOC_INFOSEC Week 0x03**
 ## 🗂 Directory Layout
 
-```
+
 
 WEEK3
 ├── README.md
